@@ -14,7 +14,7 @@ This is a JavaScript Documentation Page created as part of the **FreeCodeCamp Re
 - **Flexbox** for responsive design.
 
 ## Live Demo
-[View the live project](#) (Replace with your actual live link when deployed)
+[View the live project](#) (https://abhinavrajeshh.github.io/js-documentation-page/)
 
 
 ## Acknowledgments
